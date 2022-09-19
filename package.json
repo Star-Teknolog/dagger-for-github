@@ -33,8 +33,12 @@
     "@actions/tool-cache": "^2.0.1"
 =======
     "@actions/http-client": "^2.0.1",
+<<<<<<< HEAD
     "@actions/tool-cache": "^1.7.2"
 >>>>>>> 33f4bcd124cdb46a3a0a5a5d53022a9882353369
+=======
+    "@actions/tool-cache": "^2.0.1"
+>>>>>>> 42df9b0580ba9688c8ea03e204cd2589329ffcc4
   },
   "devDependencies": {
     "@types/node": "^16.11.26",
