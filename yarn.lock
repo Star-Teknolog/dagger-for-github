@@ -16,6 +16,7 @@
   dependencies:
     "@actions/io" "^1.0.1"
 
+<<<<<<< HEAD
 "@actions/http-client@^1.0.11":
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/@actions/http-client/-/http-client-1.0.11.tgz#c58b12e9aa8b159ee39e7dd6cbd0e91d905633c0"
@@ -23,6 +24,8 @@
   dependencies:
     tunnel "0.0.6"
 
+=======
+>>>>>>> 7a2936fe2a05f3c21bc4c57cbdd55d432d1f2739
 "@actions/http-client@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@actions/http-client/-/http-client-2.0.1.tgz#873f4ca98fe32f6839462a6f046332677322f99c"
@@ -3335,7 +3338,7 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-tunnel@0.0.6, tunnel@^0.0.6:
+tunnel@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/tunnel/-/tunnel-0.0.6.tgz#72f1314b34a5b192db012324df2cc587ca47f92c"
   integrity sha512-1h/Lnq9yajKY2PEbBadPXj3VxsDDu844OnaAo52UVmIzIvwwtBPIuNvkjuzBlTWpfJyUbG3ez0KSBibQkj4ojg==

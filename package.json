@@ -28,7 +28,11 @@
   "dependencies": {
     "@actions/core": "^1.9.0",
     "@actions/exec": "^1.1.1",
+<<<<<<< HEAD
     "@actions/http-client": "^1.0.11",
+=======
+    "@actions/http-client": "^2.0.1",
+>>>>>>> 7a2936fe2a05f3c21bc4c57cbdd55d432d1f2739
     "@actions/tool-cache": "^2.0.1"
   },
   "devDependencies": {
